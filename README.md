@@ -9,6 +9,7 @@ A simple python script to create a github repository from the comfort of your te
 ## REQUIREMENTS
 * Github Personal Access Token
 * Python 3.x
+* Python's `requests` library installed system wide
 * This might require some modification to the token path to work in windows
 
 ## Github Token
